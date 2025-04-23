@@ -1,0 +1,23 @@
+# Temporary Jupyter Notebook files
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files
+*.csv
+*.xlsx
+
+# Virtual environments (if used)
+env/
+venv/
+
+# Authentication or sensitive config files
+*.env
+token.json
