@@ -14,9 +14,6 @@ __pycache__/
 *.csv
 *.xlsx
 
-# Virtual environments (if used)
-env/
-venv/
 
 # Authentication or sensitive config files
 *.env
