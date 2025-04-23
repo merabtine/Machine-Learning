@@ -9,7 +9,8 @@ Here you'll find a collection of my ML projects — each one is a practical exer
 
 | Project | Description |
 |--------|-------------|
-| [Traffic Prediction](./traffic-prediction) | Time series forecasting of daily road traffic using Prophet |
+| [Traffic Prediction](./Time Series_Traffic Forecasting) | Time series forecasting of daily road traffic using Prophet |
+| [Titanic Survival Prediction](./Titanic Survival Prediction) | Survival prediction on Titanic using various ML classifiers |
 | ...     | *(More projects coming soon, insha'Allah)* |
 
 ---
